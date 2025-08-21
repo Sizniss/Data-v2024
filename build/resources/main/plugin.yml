@@ -1,0 +1,6 @@
+name: Data
+version: '1.0.0'
+main: kr.sizniss.data.Data
+api-version: 1.19
+authors: [ DSelon ]
+description: Minecraft Sizniss server data plugin
